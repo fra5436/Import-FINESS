@@ -1,8 +1,10 @@
 # Import-FINESS
-Import automatique des établissements de santé via le fichier FINESS
+Guide pour l'import des établissements de santé via le fichier FINESS
 
 
-Pour importer directement les établissements de santé via le dossiers FINESS.
+Pour importer directement les établissements de santé via le dossiers FINESS. 
+
+Nous l'avons utilisé pour les pharmacies d'officines du Grand Est.
 
 
 ## Dossier FINESS
