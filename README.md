@@ -27,10 +27,11 @@ Une fois cette correspondance des variables réalisés, il reste à mettre en fo
 *Mettre une value pour la colonne NIETABLIS (colonne A du fichier Excel). C'est un compteur qui s'implémente de 1 en 1, il faut consulter la table pour voir ou vous en etes et faire l'incrémentation dans Excel.
 *Mettre la value F dans la colonne Retrait (Colonne J du fichier Excel)
 *Mettre une date de création pour la colonne DATE_CREA, (Colonne U). Au format: JJ/MM/AAAA HH:MM:SS 
-* Mettre une value pour la colonne NIUTILCREA (colonne W). C'est l'identifiant de la personne qui implémente, nous avons mis la value du pharmacien qui nous a aidé pour faire les tests.
+* Mettre une value pour la colonne NIUTILCREA (colonne W). C'est l'identifiant de la personne qui implémente, nous avons mis la value du pharmacien qui a fait les tests. Se trouve dans la table.
 *Mettre une value pour la colonne	NICATEGORIE (colonne AG), 56 dans les bases pour une pharmacie d'officine.
 
 [Exemple de fichier pret à intégrer](https://docs.google.com/spreadsheets/d/1Ewuf8_q2MXFHj6Vqa_V6WZm9gq4Cr9YrpLqbB0leSGs/edit?usp=sharing)
 
 
+##
 
