@@ -6,6 +6,8 @@ Pour importer directement les établissements de santé via le dossiers FINESS.
 
 Nous l'avons utilisé pour les pharmacies d'officines du Grand Est.
 
+Pour l'instant nous ne l'avons fait que en préprod et nous testons la stabilité
+
 
 ## Dossier FINESS
 
