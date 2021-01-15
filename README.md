@@ -37,5 +37,7 @@ Une fois cette correspondance des variables réalisés, il reste à mettre en fo
 [Exemple de fichier pret à intégrer](https://docs.google.com/spreadsheets/d/1Ewuf8_q2MXFHj6Vqa_V6WZm9gq4Cr9YrpLqbB0leSGs/edit?usp=sharing)
 
 
-##
+## Table où importer
+
+Il faut faire l'import data dans la table ETABLIS
 
